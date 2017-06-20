@@ -6,7 +6,7 @@ This app uses the following NuGet packages to work properly
 
 * [Fody.PropertyChanged] - PropertyChanged Fody weaver.
 * [FreshMvvm] - Very simple MVVM framework to use in Xamarin Forms.
-* [Humanizr] - Creates beautifull readable strings from other types.
+* [Humanizr] - Creates beautiful, readable strings from other types.
 * [Newtonsoft.Json] - JSON serializer/deserializer.
 
    [Fody.PropertyChanged]: <https://github.com/Fody/PropertyChanged>
